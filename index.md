@@ -165,7 +165,7 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 
 ### Appendix C: Implementation Recommendations
 
-- Use a decentralized atomic swap exchange like [Mercury](http://mercuryex.com). There should be no friction for users to convert between your token and others. If there is, your token/coin will become unattractice, and that will decrease its value relative to other currencies.
+- Use a decentralized atomic swap exchange like [Mercury](http://mercuryex.com). There should be no friction for users to convert between your token and others. If there is, your token/coin will become unattractive, and that will decrease its value relative to other currencies.
 - UI should be the same whether users come with Bitcoins or any other coin. Mercury makes this possible.
 - Be transparent in issuance of tokens! If it's unclear how your issuance works, your currency could be devalued on the market *and* you might run afoul of the law! This info must be public as otherwise it is difficult (or impossible) to properly value your coin.
 - Pick a blockchain infrastructure/protocol/design that is flexible and allows your group members to tweak value over time (for example, increase or decrease the basic income amount).
